@@ -1,16 +1,3 @@
-# LabCollaboration
-A few scripts for our lab
+# Fun projects to learn Python + team building
 
-## title 2
-
-#### subtitle 3
-
-*italic*
-
-**Bold**
-
-
-[link](https://github.com/)
-
-
-add some random information
+We collaborate on projects in order to learn more about Python tips and write useful & well written codes
